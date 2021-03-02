@@ -1,0 +1,28 @@
+{
+  "name": "@unikit/unikit",
+  "version": "0.0.1",
+  "private": true,
+  "description": "♾️ Universal modules for React + React Native",
+  "repository": "https://github.com/franznkemaka/unikit",
+  "author": "Franz Nkemaka <franz@rigle.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kations/unikit/issues"
+  },
+  "scripts": {},
+  "workspaces": [
+    "packages/*"
+  ],
+  "keywords": [
+    "react-native",
+    "react-native-web",
+    "unikit",
+    "universal",
+    "ios",
+    "android"
+  ],
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "prettier": "^2.2.1"
+  }
+}
